@@ -2,4 +2,5 @@ WPU RESOLUI
 -konsisten pak buat konten 2x seminggu
 -membuat platform untuk pengola video
 -membuat forum diskusi 
--buat vlog pak
+-buat livesteraming
+-buat sekolah offline
