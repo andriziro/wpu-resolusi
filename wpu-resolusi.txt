@@ -4,3 +4,4 @@ WPU RESOLUI
 -membuat forum diskusi 
 -buat livesteraming
 -buat sekolah offline
+-moga paham bikin web
